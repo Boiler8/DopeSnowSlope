@@ -1,0 +1,18 @@
+Collection:
+    User1:
+        {
+            "username": "TestUser123"
+            "firstName": "Test"
+            "lastName": "User123"
+            "emailAddress": "testuser123@example.com"
+        }
+    Artist1:
+        {
+            "username": "TestArtist123"
+            "firstName": "ArtistFirst"
+            "lastName": "ArtistLast"
+            "ArtistBio": "Bio form for Artist1"
+            "SocialLink": "link to artist Socials"
+        }
+
+    
